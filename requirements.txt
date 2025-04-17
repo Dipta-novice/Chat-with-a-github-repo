@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_google_genai
+langchain_huggingface
+langchain_chroma
+numpy<2.0
+ipykernel
+transformers<=4.45
