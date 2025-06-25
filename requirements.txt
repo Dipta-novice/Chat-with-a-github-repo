@@ -6,3 +6,6 @@ langchain_chroma
 numpy<2.0
 ipykernel
 transformers<=4.45
+langchain_ollama
+protobuf==3.20.*
+GitPython
